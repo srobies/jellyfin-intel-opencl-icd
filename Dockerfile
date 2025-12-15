@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/jellyfin:10.11.4
+FROM ghcr.io/linuxserver/jellyfin:10.11.5
 
 ARG JELLYFIN_VERSION
 
